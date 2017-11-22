@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='gbk'?>
+<opencv_storage>
+  <Frame00000TargetNumber>6</Frame00000TargetNumber>
+  <Frame00000Target00000>
+    <Position>348 167 627 373</Position>
+  </Frame00000Target00000>
+  <Frame00000Target00001>
+    <Position>943 200 1241 373</Position>
+  </Frame00000Target00001>
+  <Frame00000Target00002>
+    <Position>738 170 792 208</Position>
+  </Frame00000Target00002>
+  <Frame00000Target00003>
+    <Position>883 183 969 236</Position>
+  </Frame00000Target00003>
+  <Frame00000Target00004>
+    <Position>18 187 399 373</Position>
+  </Frame00000Target00004>
+  <Frame00000Target00005>
+    <Position>596 179 717 260</Position>
+  </Frame00000Target00005>
+  <Frame00001TargetNumber>2</Frame00001TargetNumber>
+  <Frame00001Target00000>
+    <Position>607 179 661 228</Position>
+  </Frame00001Target00000>
+  <Frame00001Target00001>
+    <Position>586 176 610 192</Position>
+  </Frame00001Target00001>
+  <Frame00002TargetNumber>5</Frame00002TargetNumber>
+  <Frame00002Target00000>
+    <Position>376 335 429 372</Position>
+  </Frame00002Target00000>
+  <Frame00002Target00001>
+    <Position>168 315 310 411</Position>
+  </Frame00002Target00001>
+  <Frame00002Target00002>
+    <Position>526 319 596 369</Position>
+  </Frame00002Target00002>
+  <Frame00002Target00003>
+    <Position>624 322 695 366</Position>
+  </Frame00002Target00003>
+  <Frame00002Target00004>
+    <Position>449 319 520 366</Position>
+  </Frame00002Target00004>
+</opencv_storage>
